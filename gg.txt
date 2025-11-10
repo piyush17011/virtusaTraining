@@ -1,0 +1,8 @@
+day 1 : git 
+piyush
+Bhalwalkar
+
+working,staging,local,remote
+        add     commit push origin main 
+
+branch: pull origin branch_name
