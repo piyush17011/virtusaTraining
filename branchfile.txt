@@ -1,0 +1,1 @@
+to check whether the file stays in the branch even after pulling or merging into the main one
